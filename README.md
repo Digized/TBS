@@ -1,4 +1,5 @@
 # TBS (Turn based strategy)
+Game for my friends to play a turn based civilization like game.
 
 Ok I think I possibly have an idea of how I'm going to do the turn based strategy game.
 
@@ -48,3 +49,5 @@ PS if you see this repo and see any possible problems I maybe overlooking feel f
         - Delete the resources required to run the game
 
 
+## AI ??
+I was thinking about it a bit more and if an email went to an "ai" lambda function, there could be a possiblity of an ecosystem where people can write their own ai.. 
