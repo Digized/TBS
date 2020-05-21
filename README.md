@@ -24,7 +24,7 @@ PS if you see this repo and see any possible problems I maybe overlooking feel f
 
 ## Goals
 - have it run entirely on aws free tier(always free). so that others can also setup a game for their friends. This means:
-    - S3 storage < 5GB 
+    - S3 storage < 5GB (only free for 12 months)
     - <1M lambda / month (I believe this should be more than enough)
     - dynamodb < 25GB (might be a better option than S3)
 
